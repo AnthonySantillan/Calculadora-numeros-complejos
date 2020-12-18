@@ -1,0 +1,27 @@
+D:\Archivos de programa\matematica\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.deps.json
+D:\Archivos de programa\matematica\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.dll
+D:\Archivos de programa\matematica\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.pdb
+D:\Archivos de programa\matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.csprojAssemblyReference.cache
+D:\Archivos de programa\matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.AssemblyInfoInputs.cache
+D:\Archivos de programa\matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.AssemblyInfo.cs
+D:\Archivos de programa\matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.csproj.CoreCompileInputs.cache
+D:\Archivos de programa\matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.dll
+D:\Archivos de programa\matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.pdb
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.deps.json
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.dll
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.pdb
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.csprojAssemblyReference.cache
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.AssemblyInfoInputs.cache
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.AssemblyInfo.cs
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.dll
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.pdb
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.deps.json
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.dll
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.pdb
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.dll
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.pdb

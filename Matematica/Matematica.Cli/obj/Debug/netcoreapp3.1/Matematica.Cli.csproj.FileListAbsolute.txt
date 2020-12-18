@@ -1,0 +1,48 @@
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.exe
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.deps.json
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.runtimeconfig.json
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.runtimeconfig.dev.json
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.dll
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.pdb
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Negocio.dll
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Negocio.pdb
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csprojAssemblyReference.cache
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.AssemblyInfoInputs.cache
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.AssemblyInfo.cs
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csproj.CoreCompileInputs.cache
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csproj.CopyComplete
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.dll
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.pdb
+D:\Archivos de programa\matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.genruntimeconfig.cache
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.exe
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.deps.json
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.runtimeconfig.json
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.runtimeconfig.dev.json
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.dll
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.pdb
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Negocio.dll
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Negocio.pdb
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csprojAssemblyReference.cache
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.AssemblyInfoInputs.cache
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.AssemblyInfo.cs
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csproj.CoreCompileInputs.cache
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csproj.CopyComplete
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.dll
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.pdb
+C:\Users\REBE\Downloads\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.exe
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.deps.json
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.dll
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.pdb
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Negocio.dll
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Negocio.pdb
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.dll
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.pdb
+C:\Users\LENOVO\Desktop\Matematica\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.genruntimeconfig.cache
